@@ -1,0 +1,1 @@
+nasm -f elf32 boot/multiboot.asm -o build/multiboot.
